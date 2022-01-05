@@ -27,6 +27,7 @@ Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently fi
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![LaTex](https://img.shields.io/badge/-LaTex-000000?style=flat&logo=latex)
+<br>
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
 ![git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
