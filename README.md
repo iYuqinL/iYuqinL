@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently finishing my Master degree at the Nanjing University.
 
-<!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 #### 🌱 Things I am currently working on: 
 - Finish my Master Degree  
