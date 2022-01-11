@@ -34,10 +34,9 @@ Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently fi
 
 <!--START_SECTION:waka-->
 ```text
-systemd     36 mins         █████████▒░░░░░░░░░░░░░░░   36.70 % 
-sshconfig   26 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.27 % 
-cfg         14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-GLSL        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Other       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+systemd     36 mins         █████████████▒░░░░░░░░░░░   52.68 % 
+sshconfig   26 mins         █████████▓░░░░░░░░░░░░░░░   39.15 % 
+Other       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+GLSL        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 <!--END_SECTION:waka-->
