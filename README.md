@@ -34,6 +34,7 @@ Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently fi
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TeX    4 mins          ██████████████████▓░░░░░░   74.66 % 
+JSON   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.34 % 
 ```
 <!--END_SECTION:waka-->
