@@ -33,11 +33,11 @@ Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently fi
 ![git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 <!--START_SECTION:waka-->
+
 ```text
-TeX      6 hrs           ██████████▒░░░░░░░░░░░░░░   41.03 % 
-Python   5 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   36.79 % 
-Other    1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-sh       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-zsh      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+TeX            6 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   44.94 %
+Python         4 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.25 %
+Other          1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
 ```
+
 <!--END_SECTION:waka-->
