@@ -17,7 +17,7 @@ Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently fi
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day (really hard)
 - Coding at least 4 hours a day
-- Exercising 3 days a week
+- Exercising 3 times a week
 
 #### :computer: Programming languages and tools: 
 <p>
