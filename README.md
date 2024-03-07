@@ -35,11 +35,11 @@ Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently fi
 <!--START_SECTION:waka-->
 
 ```txt
-Python     8 hrs 25 mins   ███████████████████▓░░░░░   78.24 %
-Bash       1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-Other      25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-JSON       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python   10 hrs 55 mins  ██████████████████░░░░░░░   72.51 %
+Bash     2 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Other    1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+JSON     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+CMake    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
