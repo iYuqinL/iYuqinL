@@ -35,11 +35,11 @@ Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently fi
 <!--START_SECTION:waka-->
 
 ```txt
-C++           25 hrs 41 mins  ██████████████░░░░░░░░░░░   55.87 %
-Other         5 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-C             5 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Cuda          3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Docker        2 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+C++           21 hrs 12 mins  █████████████▒░░░░░░░░░░░   52.71 %
+Other         5 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
+Cuda          4 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+C             3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Docker        2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 ```
 
 <!--END_SECTION:waka-->
