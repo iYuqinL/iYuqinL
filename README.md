@@ -5,19 +5,18 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iYuqinL/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:YuqinLiangX@gmail.com)
 
-Welcome to my Github page! I am Yuqin Liang(Eachin Leung), and I am currently finishing my Master degree at the Nanjing University.
+Welcome to my Github page! I am Yuqin Liang(Eachin Leung).
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 #### 🌱 Things I am currently working on: 
-- Finish my Master Degree  
-- Learn about computer graphic, especially rendering
+- 3D object level & part level generation  
+- scene level generation & world model
 - Learn about stock trading
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day (really hard)
 - Coding at least 4 hours a day
-- Exercising 3 times a week
 
 #### :computer: Programming languages and tools: 
 <p>
